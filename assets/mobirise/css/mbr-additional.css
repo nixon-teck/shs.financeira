@@ -1511,7 +1511,7 @@ a {
   /* Faz o botão ter o tamanho do texto */
   padding: 5px 30px;    
   /*Ajuste de respiro do botão*/
-  left: 30%;
+  left: 25%;
   transform: translate(-50%, -50%); /* O segredo para centralizar perfeitamente */
   animation: pulse 1.5s infinite;
 }
